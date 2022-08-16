@@ -87,7 +87,7 @@ const CV = () => {
         All my programming experience comes from projects done for fun or to
         explore ideas
       </p>
-      <p>The following are the libraries or frameworks I've worked on:</p>
+      <p>The following are the libraries or frameworks I&apos;ve worked on:</p>
       <ul className="list-disc my-2 ml-4">
         <li>React, Nextjs for the frontend</li>
         <li>Node, express for the backend api</li>

@@ -99,7 +99,7 @@ const CV = () => {
         </li>
         <li>
           Deployment for the backend is done in Heroku, and Vercel for the
-          frontend since I've been using NextJS
+          frontend since I&apos;ve been using NextJS
         </li>
       </ul>
     </div>

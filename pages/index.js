@@ -78,7 +78,7 @@ export default function Home() {
           <div className="flex items-center">
             <button
               onClick={(_) =>
-                window.open("https://snakejs-web.vercel.app/", "_blank")
+                window.open("https://www.dragonbounty.com/", "_blank")
               }
               className="rounded bg-black text-white p-2 my-4 hover:outline hover:outline-2 hover:outline-violet-200 active:outline active:outline-2 active:outline-violet-600"
             >
@@ -226,7 +226,7 @@ export default function Home() {
           <div className="flex items-center">
             <button
               onClick={(_) =>
-                window.open("https://landtoken-web.vercel.app/", "_blank")
+                window.open("https://app.landtokendao.com/", "_blank")
               }
               className="rounded bg-black text-white p-2 my-4 hover:outline hover:outline-2 hover:outline-violet-200 active:outline active:outline-2 active:outline-violet-600"
             >
